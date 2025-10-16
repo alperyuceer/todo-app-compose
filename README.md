@@ -34,4 +34,3 @@ A simple todo application built with Jetpack Compose to practice Android develop
 ## Note
 
 This is a learning project built while exploring Jetpack Compose and Room Database. Code may not follow all production best practices.
-```
